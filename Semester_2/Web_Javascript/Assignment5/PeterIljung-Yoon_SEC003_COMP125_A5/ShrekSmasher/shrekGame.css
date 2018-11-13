@@ -1,0 +1,70 @@
+﻿#contain {
+    background-color: orange;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+
+#imageBack {
+    background-image: url("backimage.jpeg");
+    height: 500px;
+    width: 980px;
+    background-repeat: repeat;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+
+h2 {
+    padding: 5px;
+    text-align: center;
+    margin-bottom: auto;
+    margin-top: 0px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: blink;
+    font-size: 30px;
+}
+
+#bug {
+    left: 0%;
+    top: 19%;
+    position: relative;
+}
+
+button {
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    position: relative;
+}
+
+    button:hover {
+        background-color: chocolate;
+    }
+
+#scoreband {
+    font-size: 20px;
+    color: red;
+}
+
+#score {
+    padding: 10px;
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 0px;
+    text-align: left;
+    box-shadow: 6px #808000;
+    padding: 5px;
+    font-weight: 200;
+    font-size: small;
+    font-family: Verdana;
+}

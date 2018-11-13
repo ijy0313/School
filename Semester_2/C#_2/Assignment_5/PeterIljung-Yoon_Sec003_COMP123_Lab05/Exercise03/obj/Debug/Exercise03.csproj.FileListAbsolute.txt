@@ -1,0 +1,7 @@
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Programming 2\PeterIljung-Yoon_Sec003_COMP123_Lab05\PeterIljung-Yoon_Sec003_COMP123_Lab05\Exercise03\bin\Debug\Exercise03.exe.config
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Programming 2\PeterIljung-Yoon_Sec003_COMP123_Lab05\PeterIljung-Yoon_Sec003_COMP123_Lab05\Exercise03\bin\Debug\Exercise03.exe
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Programming 2\PeterIljung-Yoon_Sec003_COMP123_Lab05\PeterIljung-Yoon_Sec003_COMP123_Lab05\Exercise03\bin\Debug\Exercise03.pdb
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Programming 2\PeterIljung-Yoon_Sec003_COMP123_Lab05\PeterIljung-Yoon_Sec003_COMP123_Lab05\Exercise03\obj\Debug\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Programming 2\PeterIljung-Yoon_Sec003_COMP123_Lab05\PeterIljung-Yoon_Sec003_COMP123_Lab05\Exercise03\obj\Debug\Exercise03.exe
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Programming 2\PeterIljung-Yoon_Sec003_COMP123_Lab05\PeterIljung-Yoon_Sec003_COMP123_Lab05\Exercise03\obj\Debug\Exercise03.pdb
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Programming 2\PeterIljung-Yoon_Sec003_COMP123_Lab05\PeterIljung-Yoon_Sec003_COMP123_Lab05\Exercise03\obj\Debug\Exercise03.csprojResolveAssemblyReference.cache

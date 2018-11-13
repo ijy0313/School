@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Social Media Survey/Form - Unix/Linux</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+
+</head>
+<body>
+    <h1>Social Media Usage Survey/Form</h1>
+
+    Gender: 
+    <input type="radio" name="optGender" value="male"> Male 
+    <input type="radio" name="optGender" value="female"> Female
+    <input type="radio" name="optGender" value="other"> Other 
+    <br /><br />
+
+    Age: <select name="selAge" style="width: 75px">
+			<option value="0-12">0-12</option><br />
+			<option value="13-19">13-19</option>
+			<option value="20-29">20-29</option>
+			<option value="30-39">30-39</option>
+			<option value="40-49">40-49</option>
+			<option value="50-59">50-59</option>
+            <option value="60+">60+</option>
+			</select>
+    <br /><br />
+
+    E-mail: <input type="email" name="usremail" style="width: 200px">
+    <br /><br />
+
+    Social Media Applications Used (Select all that apply): <br />
+    <input type="checkbox" name="chkFB" value="Facebook" />Facebook <br />
+    <input type="checkbox" name="chkInsta" value="Instagram" />Instagram <br />
+    <input type="checkbox" name="chkYT" value="YouTube" />Youtube <br />
+    <input type="checkbox" name="chkSC" value="Snapchat" />Snapchat <br />
+    <input type="checkbox" name="chkNone" value="None" />None
+    <br /><br />
+
+    Time spent on social media per week: <br />
+    <input type="radio" name="optTime" value="0"> 0 <br />
+    <input type="radio" name="optTime" value="1-2"> 1-2 <br />
+    <input type="radio" name="optTime" value="2-4"> 2-4 <br />
+    <input type="radio" name="optTime" value="4-8"> 4-8 <br />
+    <input type="radio" name="optTime" value="8+"> 8+
+    <br /><br />
+
+    What do you use social media for? (Select all that apply):<br />
+    <input type="checkbox" name="chkFF" value="Facebook" />To connect with friends & family <br />
+    <input type="checkbox" name="chkWork" value="Instagram" />For work <br />
+    <input type="checkbox" name="chkEnt" value="YouTube" />For entertainment <br />
+    <input type="checkbox" name="chkNews" value="Snapchat" />For news <br />
+    <input type="checkbox" name="chkOther" value="None" />Other
+    <br /><br />
+
+    <input name="btnSubmit" type="submit" value="Submit Survey">
+
+    <div id="content"></div>
+</body>
+</html>

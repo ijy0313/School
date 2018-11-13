@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assign1", "Assign1", "{CF7427C7-350C-44B1-921A-46D488169A23}"
+	ProjectSection(SolutionItems) = preProject
+		assign1.css = assign1.css
+		Assign1I.html = Assign1I.html
+		Assign1M.html = Assign1M.html
+		Javascript1I.js = Javascript1I.js
+		Javascript1M.js = Javascript1M.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6422E2A5-5EF3-41BF-8E88-55D8D035DF04}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>Assignment 4 - Peter Iljung Yoon</title>
+<meta content="Form, COMP213" name="keywords">
+<meta content="Assignment 4 - Peter Iljung Yoon" name="description">
+<link href="assignment1style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body style="width: 750px" onload="FP_preloadImgs(/*url*/'button16.jpg',/*url*/'button17.jpg',/*url*/'button19.jpg',/*url*/'button1A.jpg')">
+<div id="allPage"> 
+<script src="bmrscript1.js"></script>
+<form>
+	
+
+
+
+	<a href="Assignment1.html">
+	<img id="img1" alt="Metric BMR" fp-style="fp-btn: Embossed Capsule 1" fp-title="Metric BMR" height="20" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button17.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button15.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'button16.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'button16.jpg')" src="button15.jpg" style="border: 0" width="100"></a>&nbsp;
+	<a href="Assignment1P2.html">
+	<img id="img2" alt="Imperial BMR" fp-style="fp-btn: Embossed Capsule 3" fp-title="Imperial BMR" height="20" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'button1A.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'button18.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'button19.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'button19.jpg')" src="button18.jpg" style="border: 0" width="100"></a><br>
+	<br>Gender:&nbsp; <select name="Select1" style="width: 116px" tabindex="1">
+	<option selected="" value="Male">Male</option>
+	<option value="Female">Female</option>
+	</select><br><br>Age:&nbsp;
+	<input name="optAge" style="width: 87px" tabindex="3" type="text"><br><br>
+	Your Height (in feet):
+	<input name="optHeight" style="width: 105px" tabindex="5" type="text" value="0">ft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<input name="optHeight" style="width: 105px" tabindex="6" type="text" value="0">inches<br>
+	<br>Your Weight (in pounds):
+	<input name="optWeight" style="width: 103px" tabindex="7" type="text" value="0">stones&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<input name="optWeight" style="width: 100px" tabindex="8" type="text" value="0">pounds<br>
+	<br>Your Activity level:<br><br>
+	<input name="optActLevel" style="height: 20px" tabindex="9" type="radio" value="sedentary">&nbsp; 
+	I am sedentary (little to no exercise)<br>
+	<input name="optActLevel" style="height: 20px" tabindex="11" type="radio" value="light">&nbsp; 
+	I am lightly active (light exercise or sports 1-3 days per week)<br>
+	<input name="optActLevel" tabindex="13" type="radio" value="moderate">&nbsp; 
+	I am moderately active (moderate exercise or sports 3-5 days per week)<br>
+	<input name="optActLevel" tabindex="15" type="radio" value="active">&nbsp; I 
+	am very active (hard exercise for sports 6-7 days per week)<br>
+	<input name="optActLevel" tabindex="17" type="radio" value="veryActive">&nbsp; 
+	I am super active (very hard exercise or sports and a physical job or 2x 
+	training)<br><br>Your BMR is:
+	
+
+
+
+</form>
+</div>
+</body>
+
+</html>

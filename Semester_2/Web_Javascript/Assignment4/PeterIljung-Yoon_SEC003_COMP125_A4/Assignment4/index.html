@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+    <form>
+        <fieldset class="text">
+            <h1>Membership Registration</h1>
+            <h2>Please input all information required below:</h2>
+            *Mandatory fields<br />
+            <p id="formError" class="errorMsg"></p>
+
+
+            <label for="fname">First Name*: </label>
+            <input type="text" id="fName" />
+            <br />
+
+            <label for="lname">Last Name*: </label>
+            <input type="text" id="lName" />
+            <br />
+
+            <label for="address">Address*: </label>
+            <input type="text" id="address"/>
+            <br />
+
+            <label for="city">City*: </label>
+            <input type="text" id="city" />
+            <br />
+
+            <label for="postalcode">Postal Code*: </label>
+            <input type="text" id="postalcode" />
+            <br />
+
+            <label for="province">Province*: </label>
+            <input type="text" id="province" />
+            <br />
+
+            <label for="age">Age*: </label>
+            <input type="text" id="age" />
+            <br />
+
+            <label for="password">Password*: </label>
+            <input type="password" id="password" />
+            <br />
+
+            <label for="confirm">Confirm password*: </label>
+            <input type="password" id="passwordconfirm" />
+            <br />
+
+            <label for="email">Email Address*: </label>
+            <input type="email" id="email" />
+            <br /><br />
+
+            <button onclick="return createID()">Register Now</button>
+            <input  type="reset" name="clear" value="Clear Form" />
+            <br />
+            
+        </fieldset>
+        </form>
+    
+    <h6>Copyright - Peter Iljung Yoon - COMP125_SEC003 - Assignment04</h6>
+        <script src="Script1.js"></script>
+</body>
+</html>

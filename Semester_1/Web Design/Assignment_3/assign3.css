@@ -1,0 +1,77 @@
+﻿#allpage {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+	
+<style type="text/css">
+.auto-style1 {
+	border-width: 0px;
+}
+.auto-style2 {
+	text-align: center;
+}
+#allpage {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.auto-style4 {
+	font-size: large;
+}
+.auto-style5 {
+	margin-right: 40px;
+}
+.auto-style6 {
+	margin-left: 0px;
+}
+.auto-style7 {
+	font-size: x-large;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+}
+
+.auto-style8 {
+	text-decoration: none;
+}
+.auto-style9 {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+a:hover {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+.auto-style13 {
+	text-align: right;
+	font-size: large;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	margin-top: 8px;
+	margin-bottom: 10px;
+}
+
+a:hover {
+	color: #FFFFFF;
+	background-color: #000080;
+}
+
+tr {
+	left: auto;
+}
+
+.auto-style14 {
+	text-align: center;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.auto-style15 {
+	border-style: solid;
+	border-width: 1px;
+}
+.auto-style16 {
+	text-align: center;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-size: large;
+}
+
+</style>

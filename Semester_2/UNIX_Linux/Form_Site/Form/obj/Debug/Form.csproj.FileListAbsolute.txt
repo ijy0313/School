@@ -1,0 +1,7 @@
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\UNIX\GroupAssignment\FormSiteCode\Form\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\UNIX\GroupAssignment\FormSiteCode\Form\bin\TypeScriptHTMLApp1.dll
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\UNIX\GroupAssignment\FormSiteCode\Form\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\UNIX\GroupAssignment\FormSiteCode\Form\obj\Debug\Form.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\UNIX\GroupAssignment\FormSiteCode\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\UNIX\GroupAssignment\FormSiteCode\Form\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\UNIX\GroupAssignment\FormSiteCode\Form\obj\Debug\TypeScriptHTMLApp1.pdb

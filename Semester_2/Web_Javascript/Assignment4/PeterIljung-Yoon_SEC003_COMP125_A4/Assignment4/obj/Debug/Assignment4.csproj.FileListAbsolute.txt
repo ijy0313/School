@@ -1,0 +1,7 @@
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Client Side Web Design\Assignments\Assignment4\PeterIljung-Yoon_SEC003_COMP125_A4\Assignment4\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Client Side Web Design\Assignments\Assignment4\PeterIljung-Yoon_SEC003_COMP125_A4\Assignment4\bin\TypeScriptHTMLApp1.dll
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Client Side Web Design\Assignments\Assignment4\PeterIljung-Yoon_SEC003_COMP125_A4\Assignment4\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Client Side Web Design\Assignments\Assignment4\PeterIljung-Yoon_SEC003_COMP125_A4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Client Side Web Design\Assignments\Assignment4\PeterIljung-Yoon_SEC003_COMP125_A4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Client Side Web Design\Assignments\Assignment4\PeterIljung-Yoon_SEC003_COMP125_A4\Assignment4\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Peter\Desktop\School\Year 1 Sem 2\Client Side Web Design\Assignments\Assignment4\PeterIljung-Yoon_SEC003_COMP125_A4\Assignment4\obj\Debug\TypeScriptHTMLApp1.pdb

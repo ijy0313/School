@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{9EF272DB-F4A5-4654-BA21-223979639FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaForm", "PizzaForm\PizzaForm.csproj", "{63A40E58-8EA2-4EB0-AB58-3F26A9B26466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF272DB-F4A5-4654-BA21-223979639FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF272DB-F4A5-4654-BA21-223979639FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF272DB-F4A5-4654-BA21-223979639FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF272DB-F4A5-4654-BA21-223979639FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A40E58-8EA2-4EB0-AB58-3F26A9B26466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A40E58-8EA2-4EB0-AB58-3F26A9B26466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A40E58-8EA2-4EB0-AB58-3F26A9B26466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A40E58-8EA2-4EB0-AB58-3F26A9B26466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09E98BC6-7B26-4997-BACB-66D42D595A3E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="">
+  <link rel="stylesheet" type="text/css" href="Assignment1.css">
+  <script type="text/javascript" src="Javascript1.js"></script>
+  <title>Assignment 1 - Peter Iljung Yoon</title>
+</head>
+<body onload="document.getElementById('defaultOpen').click();">
+  <div class="tab">
+    <button class="tablinks" onclick="openTab(event, 'Metric')" id="defaultOpen">Metric BMR Calculator</button>
+    <button class="tablinks" onclick="openTab(event, 'Imperial')">Imperial BMR Calculator</button>
+  </div>
+
+  <div id="Metric" class="tabcontent">
+    <form>
+    <pre><h3>Gender:     <select class = "Assignment1-Control" name="gender" id="genderM">
+                        <option value="female">Female</option>
+                        <option value="male">Male</option>
+                        </select></pre></h3>
+    <pre><h3>Age:        <input class="Assignment1-Control" type="number" name="age" id="ageM" width="200"></h3></pre>
+    <pre><h3>Height:     <input class="Assignment1-Control" type="number" name="height" id="heightM" width="200">Cm</h3></pre>
+    <pre><h3>Weight:     <input class="Assignment1-Control" type="number" name="weight" id="weightM" width="200">Kg</h3></pre>
+  <center>
+    <button class = "Assignment1-Control" onclick="return calculateBMRInMetric()">Calculate</button>
+    <input class = "Assignment1-Control" type="reset" name="clear" value="Clear"/>
+  </center>
+</form>
+  </div>
+
+  <div id="Imperial" class="tabcontent">
+    <form >
+    <pre><h3>Gender     <select class = "Assignment1-Control" name="gender" id="genderI">
+                        <option value="female">Female</option>
+                        <option value="male">Male</option>
+                        </select></pre></h3>
+    <pre><h3>Age        <input class="Assignment1-Control" type="number" name="age" id="ageI" width="200"></h3></pre>
+    <pre><h3>Height     <input class="Assignment1-Control" type="number" name="height" id="heightI" width="200">Inch</h3></pre>
+    <pre><h3>Weight     <input class="Assignment1-Control" type="number" name="weight" id="weightI" width="200">Pound</h3></pre>
+    <center>
+      <button class="Assignment1-Control" onclick="return calculateBMRInImperial()">Calculate</button>
+      <input class = "Assignment1-Control" type="reset" name="clear" value="Clear"/>
+    </center>
+  </form>
+  </div>
+    <div id="bmrResult" class="tabcontent" style="display:none">
+       
+    </div>
+</body>
+</html>
